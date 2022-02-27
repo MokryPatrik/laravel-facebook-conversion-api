@@ -6,6 +6,10 @@ return [
      */
     'facebook_pixel_ids' => [],
     
+    'facebook_conversion_api_access_token' => '',
+
+    'test_event_code' => false,
+
     /*
      * Enable or disable script rendering. Useful for local development.
      */

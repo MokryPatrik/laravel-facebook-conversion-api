@@ -24,7 +24,7 @@
   },
   "autoload": {
     "psr-4": {
-      "WebLAgence\\LaravelFacebookPixel\\": "src"
+      "MokryPatrik\\LaravelFacebookConversionApi\\": "src"
     }
   },
   "scripts": {
@@ -41,7 +41,7 @@
         "MokryPatrik\\LaravelFacebookConversionApi\\LaravelFacebookConversionApiServiceProvider"
       ],
       "aliases": {
-        "LaravelFacebookPixel": "WebLAgence\\LaravelFacebookPixel\\LaravelFacebookPixelFacade"
+        "LaravelFacebookPixel": "MokryPatrik\\LaravelFacebookConversionApi\\LaravelFacebookConversionApiFacade"
       }
     }
   },
